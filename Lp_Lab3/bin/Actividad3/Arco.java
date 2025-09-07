@@ -6,5 +6,8 @@ public class Arco implements Weapon {
     public Arco(int baseDamage) {
         this.baseDamage = baseDamage;
     }
-
-
+    @Override
+    public int getBaseDamage() {
+        return baseDamage;
+    }
+}
