@@ -1,4 +1,3 @@
-
 package Ejercicio3;
 
 public class HabitacionSuite extends Habitacion {
