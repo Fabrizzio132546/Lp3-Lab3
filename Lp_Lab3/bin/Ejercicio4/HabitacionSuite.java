@@ -27,4 +27,3 @@ public class HabitacionSuite extends Habitacion implements ServicioLimpieza, Ser
         System.out.println("Lavandería VIP para " + prenda + " en suite " + getIdHabitacion());
     }
 }
-
