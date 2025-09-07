@@ -15,4 +15,3 @@ public class PoliticaCancelacionModerada implements PoliticaCancelacion {
         return 0.5; 
     }
 }
-
