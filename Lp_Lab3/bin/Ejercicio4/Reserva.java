@@ -2,7 +2,6 @@ package Ejercicio4;
 
 import java.time.LocalDate;
 
-
 public class Reserva {
     private Cliente cliente;
     private LocalDate inicio;
@@ -48,7 +47,5 @@ public class Reserva {
         }
     }
 }
-
-
 
 
