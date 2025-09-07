@@ -15,4 +15,3 @@ public class PoliticaCancelacionFlexible implements PoliticaCancelacion {
         return 0.0; 
     }
 }
-
