@@ -16,4 +16,3 @@ public class HabitacionIndividual extends Habitacion implements ServicioLimpieza
         System.out.println("Limpieza solicitada para habitación individual " + getIdHabitacion());
     }
 }
-
