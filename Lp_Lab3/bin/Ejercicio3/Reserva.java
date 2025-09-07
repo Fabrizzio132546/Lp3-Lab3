@@ -13,6 +13,7 @@ public class Reserva {
         this.inicio = inicio;
         this.fin = fin;
         this.politicaCancelacion = politica;
+
     }
 
     public Cliente getCliente() {
