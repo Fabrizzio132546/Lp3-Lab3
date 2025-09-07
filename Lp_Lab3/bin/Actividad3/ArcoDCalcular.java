@@ -1,4 +1,4 @@
-package Actividad;
+package Actividad3;
 
 public class ArcoDCalcular implements DamageCalculator {
     @Override
