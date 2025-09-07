@@ -12,4 +12,3 @@ public class PoliticaCancelacionEstricta implements PoliticaCancelacion {
         return 1.0; 
     }
 }
-
