@@ -12,4 +12,3 @@ public class Espada implements Weapon {
         return baseDamage;
     }
 }
-
