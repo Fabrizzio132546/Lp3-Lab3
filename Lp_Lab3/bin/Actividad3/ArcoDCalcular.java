@@ -6,4 +6,3 @@ public class ArcoDCalcular implements DamageCalculator {
         return weapon.getBaseDamage() + (level * 3);
     }
 }
-
