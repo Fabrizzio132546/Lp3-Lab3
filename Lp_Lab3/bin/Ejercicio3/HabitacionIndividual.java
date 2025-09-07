@@ -6,6 +6,7 @@ public class HabitacionIndividual extends Habitacion {
         super(idHabitacion, "Individual", precioBase);
     }
 
+    
     @Override
     public double calcularPrecioFinal(int noches) {
         return getPrecioBase() * noches;
