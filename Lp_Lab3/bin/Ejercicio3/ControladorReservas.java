@@ -15,8 +15,7 @@ public class ControladorReservas {
             System.out.println("No se ha reservado, habitacion no disponible");
         }
     }
-
-    public void cancelarReserva(Habitacion habitacion, Reserva reserva) {
+ public void cancelarReserva(Habitacion habitacion, Reserva reserva) {
         if (reserva.cancelar()) {
             habitacion.liberarReserva(reserva);
         }
