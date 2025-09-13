@@ -1,7 +1,0 @@
-package Ejercicio3;
-
-
-public interface PoliticaCancelacion {
-    boolean puedeCancelar(Reserva reserva);
-    double calcularPenalizacion(Reserva reserva);
-}
